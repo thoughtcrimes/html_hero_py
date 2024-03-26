@@ -1,6 +1,6 @@
 ![banner_00_1000x250!](artwork/html_hero_banner_00_1000x250.png)
 
-html_hero is an elegant html building tool designed to empower webdevelopment without invoking massive oppinonated frameworks. Through a build process it injects various types of components into html pages and templates into a final processed site.
+html_hero is a simple elegant html building tool designed to add components and advanced processing to web development without invoking bulky opinionated frameworks. It introduces a streamlined component-insertion system, allowing developers to inject reusable elements into HTML pages seamlessly. During the build process, html_hero assembles these components into cohesive pages, resulting in clean, standard HTML. This ensures that developers retain complete command over both the source code and the final rendered output, marrying flexibility with simplicity in web page creation.
 
 
 # Features
